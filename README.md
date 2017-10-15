@@ -1,4 +1,4 @@
-This code requires pyperclip module..
-https://github.com/asweigart/pyperclip
-Highly recommend the book "Automate the Boring Stuff with Python"
-Plan on adding to this in future..
+This code requires pyperclip module..<br />
+https://github.com/asweigart/pyperclip<br />
+Highly recommend the book <a href="https://automatetheboringstuff.com">Automate the Boring Stuff with Python</a><br />
+Plan on adding to this in future..<br />
